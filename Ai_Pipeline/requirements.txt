@@ -1,0 +1,12 @@
+flask
+torch
+torchvision
+torchaudio
+transformers==4.36.0
+segment-anything
+opencv-python-headless
+pillow
+numpy
+requests
+timm
+supervision
